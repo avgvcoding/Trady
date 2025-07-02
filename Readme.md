@@ -5,7 +5,7 @@ Fetches market data (top gainers/losers, time series, company overview) from **A
 
 ---
 
-## 🚀 Features
+## Features
 
 * **Home / Explore**
 
@@ -37,7 +37,7 @@ Fetches market data (top gainers/losers, time series, company overview) from **A
 
 ---
 
-## 📦 APK
+## APK
 
 You can find the signed release APK at:
 
@@ -47,7 +47,7 @@ app/release/app-release.apk
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 * **UI:** Jetpack Compose, Material 3
 * **DI:** Hilt
@@ -58,7 +58,7 @@ app/release/app-release.apk
 
 ---
 
-## 🔗 APIs Used
+## APIs Used
 
 1. **Alpha Vantage** (Free tier – 25 requests/day)
 
@@ -73,7 +73,7 @@ app/release/app-release.apk
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 app/src/main/java/com/example/trady/
@@ -128,7 +128,7 @@ app/src/main/java/com/example/trady/
 
 ---
 
-## ⚙️ How to Build
+## How to Build
 
 1. Clone the repo
 2. In `app/build.gradle`, set your Alpha Vantage & Finnhub keys:
